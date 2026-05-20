@@ -35,3 +35,5 @@ if (VBS1 != 0) {
 # E é isso, divirta-se (:
 
 Feito por: Eu (:
+
+Site Oficial: https://bandastayaway.my.canva.site/vyrusashweb
