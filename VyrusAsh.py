@@ -2,5 +2,5 @@ import subprocess
 
 subprocess.run([
     "wscript.exe",
-    r"C:\Program Files\VyrusAsh\VyrusAsh.js"
+    r"C:\Users\Todos os Usuários\Downloads\Vyrus-ASH-main\VyrusAsh.js"
 ])
